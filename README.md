@@ -1,5 +1,5 @@
 # Yelp-Chicago-Eats
-\#python #api #tableau #data cleaning #requests #pandas #requests #json #shapefile
+#python #api #tableau #data cleaning #requests #pandas #requests #json #shapefile
 
 I began this project with a few question in mind...
 
